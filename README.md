@@ -1,5 +1,7 @@
 # Resolute-AI-Software-Private-Limited-Assignment
-InternShip In Computer Vision
+
+# InternShip In Computer Vision
+
 ![image](https://github.com/Shivam-7800/Resolute-AI-Software-Private-Limited-Assignment/assets/85841071/55194838-b38d-4711-b13d-c7e8a26a8481)
 
 ![image](https://github.com/Shivam-7800/Resolute-AI-Software-Private-Limited-Assignment/assets/85841071/b16dba50-652e-40f0-b62b-ac03bd5c3ad4)
